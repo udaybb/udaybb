@@ -179,3 +179,5 @@
 37. DeepSeek, *DeepSeek-R1 Technical Report* (2025) [53].  
 38. Alibaba, *Qwen3 Model Family Release* (2025) [54].  
 39. Microsoft, *Phi-4 Reasoning Technical Report* (2025) [55].  
+
+Disclaimer : Based on myh original notes that were fact checked, referenced and enhanced by an LLM.  My original notes is not as clean as this one :)
