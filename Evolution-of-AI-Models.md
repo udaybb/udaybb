@@ -136,6 +136,7 @@
 
 ---
 
+
 ## References
 
 *(Original 1–25 retained; new additions below)*  
@@ -164,7 +165,6 @@
 23. Fedus et al., *Switch Transformer* (Google, 2021).  
 24. Self-Instruct & Synthetic Data Research (2023–2024).  
 25. Lewis et al., *Retrieval-Augmented Generation (RAG)* (2020).  
-
 26. Peters et al., *Deep Contextualized Word Representations* (ELMo, 2018) [40].  
 27. Yang et al., *XLNet: Generalized Autoregressive Pretraining* (2019) [41].  
 28. Dosovitskiy et al., *An Image is Worth 16x16 Words: Transformers for Image Recognition* (ViT, 2020) [42].  
@@ -179,5 +179,3 @@
 37. DeepSeek, *DeepSeek-R1 Technical Report* (2025) [53].  
 38. Alibaba, *Qwen3 Model Family Release* (2025) [54].  
 39. Microsoft, *Phi-4 Reasoning Technical Report* (2025) [55].  
-
-*(Full list available upon request; citations use arXiv/Hugging Face/OpenAI/xAI sources for verifiability).*
